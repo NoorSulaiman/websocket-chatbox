@@ -1,0 +1,1 @@
+This is a simple chat box project, using websocket, built with express and socket.io module.
